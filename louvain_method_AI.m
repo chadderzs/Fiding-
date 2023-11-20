@@ -1,4 +1,4 @@
-function [S, Q] = louvain_method(A)
+function [S, Q] = louvain_method_AI(A)
     % A is the adjacency matrix of the graph
 
     % Initialize each node to be in its own community
